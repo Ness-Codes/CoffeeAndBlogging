@@ -1,0 +1,25 @@
+i.icon{
+  font-size: 2em;
+}
+.container.main{
+  margin-top: 7.0em;
+}
+
+#delete{
+  display: inline;
+}
+a:visited{
+  color: white;
+}
+a{
+  color: white;
+}
+
+#menu{
+  background-color: #a3b5b4;
+}
+
+#loginContainer{
+  padding-top: 6rem;
+  width: 25%;
+}
